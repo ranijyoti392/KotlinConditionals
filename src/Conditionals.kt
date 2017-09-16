@@ -18,6 +18,4 @@ fun main(args: Array<String>) {
     } else {
         println("Enter correct age.")
     }
-
-
 }
